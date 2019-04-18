@@ -1,0 +1,16 @@
+D:\fancky\C#\2017Demo\winform\dev\WMS\WMS.Model\bin\Debug\WMS.Model.dll
+D:\fancky\C#\2017Demo\winform\dev\WMS\WMS.Model\bin\Debug\WMS.Model.pdb
+D:\fancky\C#\2017Demo\winform\dev\WMS\WMS.Model\obj\Debug\RABC.Model.csproj.CoreCompileInputs.cache
+D:\fancky\C#\2017Demo\winform\dev\WMS\WMS.Model\obj\Debug\WMS.Model.dll
+D:\fancky\C#\2017Demo\winform\dev\WMS\WMS.Model\obj\Debug\WMS.Model.pdb
+D:\fancky\C#\2017Demo\winform\dev\RABC\RABC.Model\bin\Debug\WMS.Model.dll
+D:\fancky\C#\2017Demo\winform\dev\RABC\RABC.Model\bin\Debug\WMS.Model.pdb
+D:\fancky\C#\2017Demo\winform\dev\RABC\RABC.Model\obj\Debug\RABC.Model.csproj.CoreCompileInputs.cache
+D:\fancky\C#\2017Demo\winform\dev\RABC\RABC.Model\obj\Debug\WMS.Model.dll
+D:\fancky\C#\2017Demo\winform\dev\RABC\RABC.Model\obj\Debug\WMS.Model.pdb
+D:\RABC\RABC.Model\bin\Debug\WMS.Model.dll
+D:\RABC\RABC.Model\bin\Debug\WMS.Model.pdb
+D:\RABC\RABC.Model\obj\Debug\RABC.Model.csproj.CoreCompileInputs.cache
+D:\RABC\RABC.Model\obj\Debug\WMS.Model.dll
+D:\RABC\RABC.Model\obj\Debug\WMS.Model.pdb
+D:\RABC\RABC.Model\obj\Debug\RABC.Model.csprojResolveAssemblyReference.cache

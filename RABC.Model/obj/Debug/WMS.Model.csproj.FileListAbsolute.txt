@@ -1,0 +1,10 @@
+C:\Users\Ghl\Desktop\WMS\WMS.Model\bin\Debug\WMS.Model.dll
+C:\Users\Ghl\Desktop\WMS\WMS.Model\bin\Debug\WMS.Model.pdb
+C:\Users\Ghl\Desktop\WMS\WMS.Model\obj\Debug\WMS.Model.dll
+C:\Users\Ghl\Desktop\WMS\WMS.Model\obj\Debug\WMS.Model.pdb
+C:\Users\Ghl\Desktop\WMS\WMS.Model\obj\Debug\WMS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WMS\WMS.Model\bin\Debug\WMS.Model.dll
+C:\Users\Administrator\Desktop\WMS\WMS.Model\bin\Debug\WMS.Model.pdb
+C:\Users\Administrator\Desktop\WMS\WMS.Model\obj\Debug\WMS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WMS\WMS.Model\obj\Debug\WMS.Model.dll
+C:\Users\Administrator\Desktop\WMS\WMS.Model\obj\Debug\WMS.Model.pdb

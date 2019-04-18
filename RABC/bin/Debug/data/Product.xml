@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+  <Data>
+    <ID>1</ID>
+    <GUID>34cf8665-2602-4d8e-af50-a0cdf5393b1b</GUID>
+    <StockID>
+    </StockID>
+    <BarCodeID>
+    </BarCodeID>
+    <SkuID>2</SkuID>
+    <ProductName>1</ProductName>
+    <ProductStyle>111111222</ProductStyle>
+    <Price>22</Price>
+    <CreateTime>2017/10/5 13:33:42</CreateTime>
+    <ModifyTime>2017/10/5 13:33:42</ModifyTime>
+    <Status>1</Status>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <ID>2</ID>
+    <GUID>faea6c56-3011-43ed-b40d-7fd1d42db9fb</GUID>
+    <StockID>
+    </StockID>
+    <BarCodeID>
+    </BarCodeID>
+    <SkuID>2</SkuID>
+    <ProductName>123223</ProductName>
+    <ProductStyle>23</ProductStyle>
+    <Price>23</Price>
+    <CreateTime>2017/10/6 8:19:55</CreateTime>
+    <ModifyTime>2017/10/6 8:19:55</ModifyTime>
+    <Status>1</Status>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <ID>3</ID>
+    <GUID>9215a951-4f81-4f80-987b-622b07f7ed66</GUID>
+    <StockID>
+    </StockID>
+    <BarCodeID>
+    </BarCodeID>
+    <SkuID>2</SkuID>
+    <ProductName>2122121</ProductName>
+    <ProductStyle>12</ProductStyle>
+    <Price>21</Price>
+    <CreateTime>2017/10/6 8:23:56</CreateTime>
+    <ModifyTime>2017/10/6 8:23:56</ModifyTime>
+    <Status>1</Status>
+    <Count>0</Count>
+  </Data>
+</Product>
